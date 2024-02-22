@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'ff';
+  src: url('fonts/GT-America-LCGV-Standard-Regular.woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'ff';
+  src: url('fonts/GT-America-LCGV-Standard-Medium.woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'ff';
+  src: url('fonts/Recoleta-SemiBold.woff2');
+  font-weight: 600;
+}
+
+body {
+  overflow-x: hidden;
+  margin: 0;
+  box-sizing: border-box;
+}
+
